@@ -1,4 +1,4 @@
-![Awesome GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/thephez)
+![Awesome GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/thephez?cardType=octocat)
 
 <!--
 **thephez/thephez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
