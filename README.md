@@ -1,4 +1,4 @@
-![Tired of I.T! github stats](https://github-readme-stats.vercel.app/api?username=thephez&show_icons=true&hide_title=false?count_private=true)
+![Awesome GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/thephez)
 
 <!--
 **thephez/thephez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
